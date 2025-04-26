@@ -4,7 +4,7 @@
 
 程序运行在古老的Borland C++3.1上，本仓库提供了Dosbox虚拟机和相关脚本
 ### 使用方法
-1.下载BIKE REGULATION
+1.下载BIKE REGULATION，请解压后使用
 
 2.运行BorlandC++3.1.vbs脚本文件
 
