@@ -9,6 +9,8 @@
 2.运行BorlandC++3.1.vbs脚本文件
 
 3.在BC里open project，打开test文件夹，运行0.prj
+
+4.管理员账号为lsy，密码为111111
 ### 说明
 1.软件基于C89，仅和dos以及XP系统兼容
 
